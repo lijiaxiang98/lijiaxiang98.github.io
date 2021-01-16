@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lijiaxiang98.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-16T09:37:49.064Z</updated>
+    <updated>2021-01-16T09:56:33.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lijiaxiang98.github.io"/>
     <link rel="self" href="https://lijiaxiang98.github.io/atom.xml"/>
@@ -10,6 +10,104 @@
     <logo>https://lijiaxiang98.github.io/images/avatar.png</logo>
     <icon>https://lijiaxiang98.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Epilepsy syndromes]]></title>
+        <id>https://lijiaxiang98.github.io/post/epilepsy-syndromes/</id>
+        <link href="https://lijiaxiang98.github.io/post/epilepsy-syndromes/">
+        </link>
+        <updated>2021-01-16T09:42:58.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="idiopathic-generalized-epilepsy-syndromes">Idiopathic generalized epilepsy syndromes</h2>
+<h3 id="juvenile-myoclonic-epilepsy">Juvenile myoclonic epilepsy</h3>
+<ul>
+<li>
+<p>One of the most common epilepsy, 8 - 18 岁</p>
+</li>
+<li>
+<p>Usually in the <mark><strong>early morning, soon after awakening</strong></mark>.</p>
+</li>
+<li>
+<p><strong>Traid</strong>(单独或同时出现):</p>
+</li>
+</ul>
+<ol>
+<li>
+<p><strong>Myoclonic seizure</strong>(<mark>Bilateral symmetrical</mark> <strong><a href="https://next.amboss.com/us/article/o500Og#Z01d6df8be10035f023994d8f101e42fe">myoclonic</a> jerks</strong>, without impaired consciousness)</p>
+</li>
+<li>
+<p><strong>Generalized <a href="https://next.amboss.com/us/article/RR0l5f#Z39768e930bb5fa124e30a7cbab2dc9b2">tonic-clonic</a> <a href="https://next.amboss.com/us/article/RR0l5f#Z34c7e6b1cab99047c956783229d49b59">seizures</a></strong> -&gt; happens <strong><mark>in the context of sleep deprivation or alcohol ingestion</mark></strong></p>
+</li>
+<li>
+<p><a href="https://next.amboss.com/us/article/jR0_5f#Z84445f9bf9203c148ad6809c64e170f2">Absence seizures</a> with impaired consciousness <code>Least common</code></p>
+</li>
+</ol>
+<ul>
+<li>
+<p><strong>Triggers</strong>: sleep deprivation, alcohol consumption, <strong>flickering lights</strong></p>
+</li>
+<li>
+<p><strong>EEG:</strong> Irregular 3–5 Hz polyspikes and waves with <strong>frontocentral predominance</strong></p>
+</li>
+<li>
+<p><strong>治疗:</strong> valproic acid</p>
+</li>
+<li>
+<p>Responds well to <a href="https://next.amboss.com/us/article/-N0Ddg#Zcd438fb2824eb980a6d8940c193890ba">antiseizure drug</a>,  <mark><strong>Life-long treatment usually required (high risk of recurrence)</strong></mark></p>
+</li>
+</ul>
+<h3 id="juvenile-absence-epilepsy">Juvenile absence epilepsy</h3>
+<ul>
+<li>9 - 13 青春期，男女相同</li>
+<li><strong>失神发作</strong>：少于 <strong><a href="https://next.amboss.com/us/article/jR0_5f#Z36ac3e42b8ed38dce15bc0ad7c5e9a1c">childhood absence epilepsy</a></strong></li>
+<li><mark><strong>80% 有 Tonic-clonic seizures</strong></mark> -&gt; valproic acid 为1线<strong>治疗</strong></li>
+<li>预后较好，60%治疗后无发作，可转化为<strong>Juvenile myoclonic epilepsy</strong></li>
+</ul>
+<h3 id="childhood-absence-epilepsy">Childhood absence epilepsy</h3>
+<ul>
+<li>
+<p>6-7岁，女孩多见，遗传</p>
+</li>
+<li>
+<p><strong>失神发作</strong></p>
+<ol>
+<li>
+<p>lasting <strong>5–10 seconds</strong>，发作频繁，up to 100x/d</p>
+</li>
+<li>
+<p>无肌阵挛</p>
+</li>
+<li>
+<p><strong>Amnestic</strong> during seizures</p>
+</li>
+<li>
+<p><strong>Lip smacking, eye fluttering or head nodding are common</strong></p>
+</li>
+</ol>
+</li>
+<li>
+<p><strong>非典型失神发作</strong>：<strong>more gradual</strong> onset and ending, <strong>duration of &gt; 30 seconds</strong>.</p>
+</li>
+<li>
+<p><strong>Triggers:</strong> <mark>hyperventilation</mark>, lights</p>
+</li>
+<li>
+<p>治疗：<strong>Ethosuximide</strong>, 预后好，80%药物治疗后无发作</p>
+<blockquote>
+<p>★<em>九版书为 sodium valproate</em></p>
+<p>Both <a href="https://next.amboss.com/us/article/-N0Ddg#Z92315e6aac25479596341610d7d4e742">ethosuximide</a> and sodium <a href="https://next.amboss.com/us/article/-N0Ddg#Zfe47f4f5fb7f8de32f7919dc8909896e">valproate</a> have a similar efficacy in preventing <a href="https://next.amboss.com/us/article/jR0_5f#Z84445f9bf9203c148ad6809c64e170f2">absence seizures</a> in <a href="https://next.amboss.com/us/article/jR0_5f#Z36ac3e42b8ed38dce15bc0ad7c5e9a1c">childhood absence epilepsy</a>. However, the risk of attentional dysfunction is higher with sodium <a href="https://next.amboss.com/us/article/-N0Ddg#Zfe47f4f5fb7f8de32f7919dc8909896e">valproate</a> than <a href="https://next.amboss.com/us/article/-N0Ddg#Z92315e6aac25479596341610d7d4e742">ethosuximide</a>.</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="symptomatic-or-cryptogenic-generalized-epilepsy-syndromes">Symptomatic or cryptogenic generalized epilepsy syndromes</h2>
+<blockquote>
+<p>These syndromes <mark>do not respond well to <a href="https://next.amboss.com/us/article/-N0Ddg#Zcd438fb2824eb980a6d8940c193890ba">antiseizure drug</a> therapy</mark> and are commonly associated with <strong>developmental delays</strong>, as well as <strong>motor</strong> and <strong>cognitive impairments</strong>.</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://lijiaxiang98.github.io/post-images/1610790429799.png" alt="" loading="lazy"></figure>
+<h3 id="infantile-spasmswest-syndrome">Infantile spasms(<strong><a href="https://next.amboss.com/us/article/jR0_5f#Z7e909d273a484ecf5eee446f36de8794">West syndrome</a></strong>)</h3>
+<ul>
+<li>3–7 months(<strong>1年内发病</strong>)</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Charcot-Marie-Tooth disease]]></title>
         <id>https://lijiaxiang98.github.io/post/Charcot-Marie-Tooth disease/</id>

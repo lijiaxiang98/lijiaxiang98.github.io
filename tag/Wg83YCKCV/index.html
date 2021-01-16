@@ -17,6 +17,7 @@
 </head>
 <body class="note-serif-sc-font">
   <div class="antialiased flex flex-col min-h-screen" id="app">
+
     <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
   <div class="flex justify-end px-4">
     <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
@@ -47,41 +48,53 @@
     </a>
   </nav>
 </div>
+
     <div class="max-w-4xl w-full mx-auto pt-32">
-      <div class="py-8 shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
+      <h1 class="text-2xl font-bold pb-8 flex justify-center items-center">
+        <i class="ri-hashtag"></i>
+        Epilepsy
+      </h1>
+      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
         
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://lijiaxiang98.github.io/tag/Wg83YCKCV/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              Epilepsy（1）
-            </a>
-          </div>
-        
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://lijiaxiang98.github.io/tag/DIu1Pb1dz/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              Charcot-Marie-Tooth disease（1）
-            </a>
-          </div>
-        
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://lijiaxiang98.github.io/tag/kbxtLguKBm/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              Demyelinating disorders（1）
-            </a>
-          </div>
-        
-          <div class="px-8 pb-5 inline-flex relative overflow-hidden">
-            <a href="https://lijiaxiang98.github.io/tag/tK-wipXcO/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-              <i class="ri-hashtag"></i>
-              Gridea（1）
-            </a>
-          </div>
-        
+  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
+    
+    <div class="flex-1 order-2 md:order-1">
+      <h2 class="text-2xl font-semibold mb-4">
+        <a href="https://lijiaxiang98.github.io/post/epilepsy-syndromes/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
+          Epilepsy syndromes
+        </a>
+      </h2>
+      <div class="mb-4 text-xs text-gray-500">2021-01-16</div>
+      <div class="mb-4 text-gray-500 dark:text-gray-300">
+        Idiopathic generalized epilepsy syndromes
+Juvenile myoclonic epilepsy
+
+
+One of the most common epilepsy, 8 - 18 岁
+
+
+Usua...
       </div>
+      <!-- <a href="https://lijiaxiang98.github.io/post/epilepsy-syndromes/" class="btn">
+        Read more
+      </a> -->
+      
+        <a href="https://lijiaxiang98.github.io/tag/Wg83YCKCV/" class="text-gray-700 text-sm border-b-2 border-dotted border-gray-200 hover:border-gray-600 transition-all duration-100 inline-flex mr-2">
+          <i class="ri-hashtag"></i>
+          Epilepsy
+        </a>
+      
+    </div>
+    
+  </div>
+  
+      </div>
+
+      
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
 </footer>
+
     </div>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
